@@ -1,212 +1,412 @@
 {
-  "phim_1": [
-    {"name": "NGHĨ GIÀU LÀM GIÀU",
-    "link": "https://www.youtube.com/watch?v=OdLBXi09iSs"},
-    {"name": "7 QUY TẮC TIỀN BẠC",
-    "link": "https://www.youtube.com/watch?v=_QiSn8TJ0PM"},
-    {"name": "LÀM GIÀU Ở TUỔI 40",
-    "link": "https://www.youtube.com/watch?v=vT4raG-N9hg"},
-    {"name": "5 ĐIỀU NÓI MỖI SÁNG",
-    "link": "https://www.youtube.com/watch?v=R38s5YkR7gI"},
-    {"name": "7 CÁCH KỸ LUẬT THÉP",
-    "link": "https://www.youtube.com/watch?v=czg2oFgwhTQ"},
-    {"name": "BÍ QUYẾT TẠO DÒNG TIỀN",
-    "link": "https://www.youtube.com/watch?v=9r30-utJEKM"}, 
-    {"name": "XÂY DỰNG BẢN THÂN",
-    "link": "https://www.youtube.com/watch?v=89HG_Nzncis"},
-    {"name": "CHIẾN THẮNG BẢN THÂN",
-    "link": "https://www.youtube.com/watch?v=pVhkQVbk8gg"},
-    {"name": "TRAU DỒI KỸ NĂNG",
-    "link": "https://www.youtube.com/watch?v=3ig6qR8C6wo"},
-    {"name": "ÉP MÌNH KỶ LUẬT",
-    "link": "https://www.youtube.com/watch?v=v0KtiHBTwd4"},
-    {"name": "TƯ DUY THÉP",
-    "link": "https://www.youtube.com/watch?v=D_GUKMY7kaw"},
-    {"name": "TỰ TIN ĐỈNH CAO",
-    "link": "https://www.youtube.com/watch?v=yehKbSjtrmY"},
-    {"name": "NHÌN THẤU LÒNG NGƯỜI",
-    "link": "https://www.youtube.com/watch?v=VaVIGTAy-x0"},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""}
-  ],
-  "phim_2": [
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""}
-  ],
+    "phim_1": [
+        {
+            "name": "NGHĨ GIÀU LÀM GIÀU",
+            "link": "https://www.youtube.com/watch?v=OdLBXi09iSs"
+        },
+        {
+            "name": "7 QUY TẮC TIỀN BẠC",
+            "link": "https://www.youtube.com/watch?v=_QiSn8TJ0PM"
+        },
+        {
+            "name": "LÀM GIÀU Ở TUỔI 40",
+            "link": "https://www.youtube.com/watch?v=vT4raG-N9hg"
+        },
+        {
+            "name": "5 ĐIỀU NÓI MỖI SÁNG",
+            "link": "https://www.youtube.com/watch?v=R38s5YkR7gI"
+        },
+        {
+            "name": "7 CÁCH KỸ LUẬT THÉP",
+            "link": "https://www.youtube.com/watch?v=czg2oFgwhTQ"
+        },
+        {
+            "name": "BÍ QUYẾT TẠO DÒNG TIỀN",
+            "link": "https://www.youtube.com/watch?v=9r30-utJEKM"
+        },
+        {
+            "name": "XÂY DỰNG BẢN THÂN",
+            "link": "https://www.youtube.com/watch?v=89HG_Nzncis"
+        },
+        {
+            "name": "CHIẾN THẮNG BẢN THÂN",
+            "link": "https://www.youtube.com/watch?v=pVhkQVbk8gg"
+        },
+        {
+            "name": "TRAU DỒI KỸ NĂNG",
+            "link": "https://www.youtube.com/watch?v=3ig6qR8C6wo"
+        },
+        {
+            "name": "ÉP MÌNH KỶ LUẬT",
+            "link": "https://www.youtube.com/watch?v=v0KtiHBTwd4"
+        },
+        {
+            "name": "TƯ DUY THÉP",
+            "link": "https://www.youtube.com/watch?v=D_GUKMY7kaw"
+        },
+        {
+            "name": "TỰ TIN ĐỈNH CAO",
+            "link": "https://www.youtube.com/watch?v=yehKbSjtrmY"
+        },
+        {
+            "name": "NHÌN THẤU LÒNG NGƯỜI",
+            "link": "https://www.youtube.com/watch?v=VaVIGTAy-x0"
+        },
+        {
+            "name": "BUỘC THÂN TIẾN BỘ",
+            "link": "https://www.youtube.com/watch?v=2eM48v2MwMk"
+        },
+        {
+            "name": "TRÍ TUỆ THỰC TẾ",
+            "link": "https://www.youtube.com/watch?v=V9WzvMb29II"
+        },
+        {
+            "name": "HUẤN LUYỆN CHÍNH MÌNH",
+            "link": "https://www.youtube.com/watch?v=lGO3lYLoXwE"
+        },
+        {
+            "name": "ĐẮC NHÂN TÂM",
+            "link": "https://www.youtube.com/watch?v=8SssXhA598o"
+        },
+        {
+            "name": "10 BÍ QUYẾT GIÚP KIÊN TRÌ",
+            "link": "https://www.youtube.com/watch?v=Wwos8xHv3ao"
+        },
+        {
+            "name": "BÍ KÍP SỐNG THỌ",
+            "link": "https://www.youtube.com/watch?v=-6rx33AB1ac"
+        },
+        {
+            "name": "SỬ DỤNG 24H ĐÚNG CÁCH",
+            "link": "https://www.youtube.com/watch?v=RGUr9OoNHvo"
+        }
+    ],
+    "phim_2": [
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        }
+    ],
     "phim_3": [
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""}
-  ],
-  "phim_4": [
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""}
-  ],
-  "phim_5": [
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""},
-    {"name": "",
-    "link": ""}
-  ]
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        }
+    ],
+    "phim_4": [
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        }
+    ],
+    "phim_5": [
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        },
+        {
+            "name": "",
+            "link": ""
+        }
+    ]
 }
